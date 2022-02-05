@@ -1,4 +1,4 @@
-FROM centos:8
+FROM centos:7
 
 LABEL maintainer="Michael Buluma <me@buluma.co.ke>"
 LABEL build_date="2022-02-05"
