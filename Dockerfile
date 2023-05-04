@@ -1,7 +1,7 @@
 FROM centos:8
 
 LABEL maintainer="Michael Buluma <me@buluma.co.ke>"
-LABEL build_date="2022-06-07"
+LABEL build_date="2023-04-05"
 
 ENV container=docker
 
